@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Rest" src="/rest/github/rest.png" padding: 50px/>
+    <img alt="Rest" src="/rest/github/rest.png" padding: 50px collor: #fff/>
 </h1>
 
 <p align="center">
