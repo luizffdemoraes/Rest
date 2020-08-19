@@ -1,5 +1,5 @@
 <h1 align:"center">
-    <img alt="Rest" src="/rest/github/rest.png"/>
+    <img alt="Rest" src="/rest/github/restD.png"/>
 </h1>
 
 
