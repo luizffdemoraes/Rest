@@ -1,6 +1,9 @@
 <h1 align="center">
-    <img alt="Rest" src="/rest/github/rest.png" padding: 50px collor: #fff/>
+    <img alt="Rest" src="/rest/github/rest.png"/>
 </h1>
+<style>
+    backgroun: #fff
+</style>
 
 <p align="center">
   Tecnologias<br>
