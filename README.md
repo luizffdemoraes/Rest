@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center", style="color: green">
     <img alt="Rest" src="/rest/github/rest.png"/>
 </h1>
 
