@@ -21,6 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-🍜 A micração do site Rest para um tema em WordPress ele é um site estatico com telas de apresentação de cardapio, localização e história. 
+🍜 A micração do site Rest para um tema em WordPress ele é um site estatico com telas de apresentação do cardapio, localização e história. 
 
 
